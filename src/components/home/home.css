@@ -1,0 +1,41 @@
+.home{
+    width: 30%;
+    height: 40%;
+    background-color: blue;
+    
+}
+.collage{
+    z-index: 0;
+    position: relative;
+}
+.photo1{
+    top: 10%;
+    width: 550px;
+    height: 550px;
+    translate: 12% 10%;
+    overflow: hidden;
+    border-radius: 100%;
+    box-shadow: 1px 2px 7px rgba(0, 0, 0, 0.5);
+   }
+   .word{
+    position: fixed;
+    z-index: 1;
+    width: 50%;
+    left: 50%;
+
+    top: 20%;
+    font-size: 25px;
+   }
+   
+   @media (max-width: 1240px){
+    .word{
+        font-size: 20px;
+
+    }
+    .photo1{
+        translate: 35% 10%;
+        width: 350px;
+        height: 350px;
+    }
+   }
+   
