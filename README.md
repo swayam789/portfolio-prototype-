@@ -1,4 +1,4 @@
-# Created this for fun to learn more about frontend with REACT in starting of my REACT learning. Tried to add percentile bars and some minor animations.
+Created this for fun to learn more about frontend with REACT in starting of my REACT learning. Tried to add percentile bars and some minor animations.
 
 # Getting Started with Create React App
 
